@@ -1,0 +1,14 @@
+
+.background{
+    background-color: hsla(229, 31%, 14%, 0.176);
+}
+
+.newFeatureCard {
+    box-shadow: 2px 4px 9px 1px hsla(0, 0%, 0%, 0.05);
+}
+
+.feature-4-bg{
+    background: 100% 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
