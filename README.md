@@ -25,7 +25,10 @@ This project is a clone of a modern business website, providing a user-friendly 
 
 ## Deployed Website
 
-The cloned website is deployed and can be accessed [here](#).
+The cloned website is deployed and can be accessed [here](https://razorpay-clone007.netlify.app/).
+```
+Their is a Issue with some Image not being displayed on the deployed site Instead you can run it on your local Host.
+```
 
 ## Technologies Used
 
