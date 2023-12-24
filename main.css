@@ -47,3 +47,58 @@
     background: url(./img/CTABg.svg);
     /* bg-[url(/img/CTABg.svg)] */
 }
+
+/* card-1 */
+.bg-card1{
+    background-image: url(./img/decoration/instant-settlement-bg.svg);
+    /* bg-[url(/img/decoration/instant-settlement-bg.svg)] */
+}
+
+.bg-card1Hover:hover{
+    background-image: url(./img/hover/instant-settlement-bghover.svg);
+    /* bg-[url(/img/hover/instant-settlement-bghover.svg)] */
+}
+
+/* card-2 */
+.bg-card2{
+    background-image: url(./img/decoration/upi-autopay-bg.svg);
+    /* bg-[url(/img/decoration/upi-autopay-bg.svg)] */
+}
+
+.bg-card2Hover:hover{
+    background-image: url(./img/hover/upi-autopay-hoverbg.svg);
+    /* bg-[url(/img/hover/upi-autopay-hoverbg.svg)] */
+}
+
+/* card-3 */
+.bg-card3{
+    background-image: url(./img/decoration/magic-checkout-bg.svg);
+    /* bg-[url(/img/decoration/magic-checkout-bg.svg)]  */
+}
+
+.bg-card3Hover:hover{
+    background-image: url(./img/hover/magic-checkout-hoverbg.svg);
+    /* bg-[url(/img/hover/magic-checkout-hoverbg.svg)] */
+}
+
+/* card-4 */
+.bg-card4{
+    background-image: url(./img/decoration/payment-button-bg.svg);
+    /* bg-[url(/img/decoration/payment-button-bg.svg)] */
+}
+
+.bg-card4Hover:hover{
+    background-image: url(./img/hover/payment-button-hoverbg.svg);
+    /* bg-[url(/img/hover/payment-button-hoverbg.svg)] */
+}
+
+/* card-5 */
+.bg-card5{
+    background-image: url(./img/decoration/instant-settlement-bg.svg);
+    /* bg-[url(/img/decoration/instant-settlement-bg.svg)] */
+}
+
+.bg-card5Hover:hover{
+    background-image: url(./img/hover/instant-settlement-bghover.svg);
+    /* bg-[url(/img/hover/instant-settlement-bghover.svg)] */
+}
