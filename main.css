@@ -29,3 +29,18 @@
 .sub-margin{
     margin-top: 0;
 }
+
+.bg-section1{
+    background: url(./img/feature-section-2BG.svg);
+    /* bg-[url(/img/feature-section-2BG.svg)] */
+}
+
+.bg-section4{
+    background: url(./img/core-features-sectionBg.svg);
+    /* bg-[url(/img/core-features-sectionBg.svg)] */
+}
+
+.bg-business-section{
+    background: url(./img/CTABg.svg);
+    /* bg-[url(/img/CTABg.svg)] */
+}
