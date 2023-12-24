@@ -25,19 +25,7 @@ This project is a clone of a modern business website, providing a user-friendly 
 
 ## Deployed Website
 
-The cloned website is deployed and can be accessed [here](https://razorpay-clone007.netlify.app/).
-```
-Their is a Issue with some Image not being displayed on the deployed site 
-Instead you can run it on your local Host.
-```
-
-## Missing Section
-
-![Section-1](./img/ss/feature-section-2.png)
-
-![Section-2](./img/ss/feature-section-4.png)
-
-![Section-3](./img/ss/Business-section.png)
+The website is deployed and can be accessed [here](https://razorpay-clone007.netlify.app/).
 
 ## Technologies Used
 
@@ -48,6 +36,6 @@ Instead you can run it on your local Host.
 ## How to Use
 
 1. Clone the repository.
-2. Open the `index.html` file in a web browser to view the cloned website.
+2. Run the command `npm run start` in command Prompt like Vs in project Director.
 
 ## धन्यवाद
